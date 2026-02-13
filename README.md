@@ -83,6 +83,8 @@ Feature engineering
 API deployment for real-time scoring
 
 ## 📁 Repository Structure
-├── Fraud_Detection_Notebook.ipynb
+```
+├── Fraud_Detection.ipynb
 ├── README.md
-└── requirements.txt
+└── fraud_detection_pipeline.pkl
+```
