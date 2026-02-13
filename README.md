@@ -1,6 +1,13 @@
 # 🚀 Fraud Detection System using Machine Learning
-<p align="center"> <img src="https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python"> <img src="https://img.shields.io/badge/Scikit--Learn-ML-orange?style=for-the-badge&logo=scikitlearn"> <img src="https://img.shields.io/badge/Pandas-Data%20Processing-darkblue?style=for-the-badge&logo=pandas"> <img src="https://img.shields.io/badge/Seaborn-Visualization-teal?style=for-the-badge&logo=python"> <img src="https://img.shields.io/badge/XGBoost-Gradient%20Boosting-green?style=for-the-badge"> </p>
-📌 Project Overview
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-0C4B33?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+## 📌 Project Overview
 
 This project focuses on building a high-performance Fraud Detection Model for highly imbalanced financial transaction data.
 
