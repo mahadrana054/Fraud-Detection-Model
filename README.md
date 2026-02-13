@@ -1,4 +1,4 @@
-🚀 Fraud Detection System using Machine Learning
+# 🚀 Fraud Detection System using Machine Learning
 <p align="center"> <img src="https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python"> <img src="https://img.shields.io/badge/Scikit--Learn-ML-orange?style=for-the-badge&logo=scikitlearn"> <img src="https://img.shields.io/badge/Pandas-Data%20Processing-darkblue?style=for-the-badge&logo=pandas"> <img src="https://img.shields.io/badge/Seaborn-Visualization-teal?style=for-the-badge&logo=python"> <img src="https://img.shields.io/badge/XGBoost-Gradient%20Boosting-green?style=for-the-badge"> </p>
 📌 Project Overview
 
